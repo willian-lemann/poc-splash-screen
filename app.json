@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "poc-splash-screen",
+    "slug": "poc-splash-screen",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "poc-splash-screen"
+}
