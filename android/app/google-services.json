@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242115938593",
+    "project_id": "react-native-bdea0",
+    "storage_bucket": "react-native-bdea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242115938593:android:0fa006ac7f214950c8d660",
+        "android_client_info": {
+          "package_name": "com.pocsplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242115938593-piae13mop7mstvpe6hcdjms7rqp4cg6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz8_j-rbbXqOYa2MZrzbteUt__yIGfUYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242115938593-piae13mop7mstvpe6hcdjms7rqp4cg6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
